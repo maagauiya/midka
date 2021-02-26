@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+
+background-image: url("back.png");
+}
+.iconsize{
+  height:30px;
+}
+.first{
+  position: relative;
+  top:28px;
+  margin: 10px;
+  height: 450px;
+  background-color: #c3f8dc;
+}
+.second{
+  position: relative;
+  top:60px;
+    margin: 10px;
+  background-color:#85f1de;
+}
+.third{
+    position: relative;
+    top: 100px;
+    margin: 10px;
+    height: 100px;
+  background-color: #c3f8dc;
+}
+.carousel-control-next-icon{
+  position: relative;
+  left: 50px;
+  height: 50px;
+  width: 50px;
+}
+.carousel-control-prev-icon{
+  height: 50px;
+  width: 50px;
+}
+
+.carousel-item{
+    height: 600px;
+}
+.carousel-item img{
+    height: 600px;
+}
+.contactfont{
+  color: #1a6e42;
+  font-size: 200%;
+  font-family: 'Londrina Solid', cursive;
+}
+.iconsize{
+  padding: 1px;
+  height: 30px;
+}
+.bastykfont{
+  font-size: 120%;
+  font-family: 'Londrina Solid', cursive;
+}
+.posobast1{
+  position: relative;
+  bottom: 30%;
+  left: 1%;
+}
+.posobast2{
+  position: relative;
+  bottom: 105%;
+  left: 10%;
+}
+.posobast3{
+  position: relative;
+  bottom: 180%;
+  left: 17%;
+}
+.fontforaddress{
+  position: relative;
+  top:20px;
+  color: #1a6e42;
+  right:2%;
+   float: right;
+    font-family: 'Slabo 27px', serif;
+}
+.advantfont{
+  padding: 15px;
+  color: #1a6e42;
+  font-size: 250%;
+  font-family: 'Londrina Solid', cursive;
+}
+.advfont{
+   font-family: 'Londrina Solid', cursive;
+   color: #1a6e42;
+   font-size: 100%;
+}
+.png1{
+  position: relative;
+  left:2.5%;
+  height: 200px;
+}
+.adv2{
+  position: relative;
+  left:25%;
+  bottom: 50%;
+}
+.adv1{
+  position: relative;
+  left:1%;
+  top:8.5%;
+}
+.adv3{
+  position: relative;
+  left:50%;
+  bottom: 114%;
+}
+.adv4{
+  position: relative;
+  left:75%;
+  bottom: 178%;
+}
